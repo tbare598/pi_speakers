@@ -1,0 +1,10 @@
+.speaker-command > div{
+    text-align: center;
+    font-size: 5em;
+}
+
+.speaker-command button{
+    height: 2em;
+    margin: .5em;
+    width: 75%;
+}
